@@ -13,7 +13,7 @@ Extract the download zip file and double click 'Mathematics.exe' to run the prog
   4. After the quiz, the total score and accuracy would be shown on the screen. <br />
   5. At this stage, the user can choose to leave the program or continue. If to leave, the program will be closed automatically. If to continue, the user needs to pick a question type again to start a new quiz. <br />
   6. After several quizzes are taken, the user shall get a sense of where his or her weaknesses are in mathematics. <br />
-  7. The program can be used for self studying or for in-class/take-home quizzes/exams. <br />
+  7. The program can be used for self-learning or for in-class/take-home quizzes/exams. <br />
   8. The program does not use any database. The problems are generated randomly by the program. Thus, each time the user will meet new problems. <br />
   9. For the Matrix Inversion problems, all matrices generated are guaranteed to be invertible.  <br />
 
