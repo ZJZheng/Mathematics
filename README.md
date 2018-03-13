@@ -1,3 +1,3 @@
 # Mathematics
-Download the 'Mathematics' file to use.
-Once download, double clike 'Mathematics.exe' to run the program.
+Download the 'Mathematics' file to use. <br />
+Once download, double clike 'Mathematics.exe' to run the program. <br />
