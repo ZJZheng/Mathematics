@@ -7,14 +7,15 @@ Download the 'Mathematics' file in this repository. <br />
 Extract the download zip file and double click 'Mathematics.exe' to run the program. <br />
 
 ## How to Use: <br />
-  1. The questions in the program are randomly generated. User picks a type of questions and then pick the number of questions to answer.  <br />
+  1. User picks a type of questions and then pick the number of questions to start a quiz. There are four question types in the current prototype program. They are: “Arithmetic Questions”, “Fraction Questions”, “Derivative Questions”, and “Matrix Questions”. <br />
   2. The user needs to type in answers in the program and press “Enter” on keyboard to submit the answer. <br />
   3. If the answer is correct, the user would get 1 point. If the answer is wrong, the user gets 0 point, and the correct answer will be shown on the screen for user’s reference. <br />
-  4. After the quiz, the total score and accuracy of this section would be shown on the screen. <br />
+  4. After the quiz, the total score and accuracy would be shown on the screen. <br />
   5. At this stage, the user can choose to leave the program or continue. If to leave, the program will be closed automatically. If to continue, the user needs to pick a question type again to start a new quiz. <br />
-  6. After enough quizzes are taken, the user shall get a sense of where his or her weaknesses are in mathematics. <br />
+  6. After several quizzes are taken, the user shall get a sense of where his or her weaknesses are in mathematics. <br />
   7. The program can be used for self studying or for in-class/take-home quizzes/exams. <br />
-  8. For the Matrix Inversion questions, all matrices generated are guaranteed to be invertible.  <br />
+  8. The program does not use any database. The questions are generated randomly by the program. Thus, each time the user will meet new questions. <br />
+  9. For the Matrix Inversion questions, all matrices generated are guaranteed to be invertible.  <br />
 
 ## Make a change of the program: <br />
   1. Change the codes in 'Mathematics.py' <br />
