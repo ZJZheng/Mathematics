@@ -14,8 +14,8 @@ Extract the download zip file and double click 'Mathematics.exe' to run the prog
   5. At this stage, the user can choose to leave the program or continue. If to leave, the program will be closed automatically. If to continue, the user needs to pick a question type again to start a new quiz. <br />
   6. After several quizzes are taken, the user shall get a sense of where his or her weaknesses are in mathematics. <br />
   7. The program can be used for self studying or for in-class/take-home quizzes/exams. <br />
-  8. The program does not use any database. The questions are generated randomly by the program. Thus, each time the user will meet new questions. <br />
-  9. For the Matrix Inversion questions, all matrices generated are guaranteed to be invertible.  <br />
+  8. The program does not use any database. The problems are generated randomly by the program. Thus, each time the user will meet new problems. <br />
+  9. For the Matrix Inversion problems, all matrices generated are guaranteed to be invertible.  <br />
 
 ## Make a change of the program: <br />
   1. Change the codes in 'Mathematics.py' <br />
@@ -24,8 +24,8 @@ Extract the download zip file and double click 'Mathematics.exe' to run the prog
         ```
         pip install pyinstaller
         ```
-  3. In command prompt (Windows) under the same directory, type: <br />
+  3. In command prompt (Windows) under the directory of 'Mathematics.py', type: <br />
         ```
         pyinstaller Mathematics.py
         ```
-  4. Open your new program "Mathematics.exe" inside the "dist" folder. You can create a shortcut of it, so you can access the program easily in the future. <br />
+  4. After generation, open your new program "Mathematics.exe" inside the "dist" folder. You can create a shortcut of it, so you can access the program easily in the future. <br />
