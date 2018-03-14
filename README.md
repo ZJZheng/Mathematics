@@ -28,4 +28,4 @@ Extract the download zip file and double click 'Mathematics.exe' to run the prog
         ```
         pyinstaller Mathematics.py
         ```
-  4. After generation, open your new program "Mathematics.exe" inside the "dist" folder. You can create a shortcut of it, so you can access the program easily in the future. <br />
+  4. After generation, open your new program "Mathematics.exe" inside the "dist" folder. You can create a shortcut of it to access the program easily in the future. <br />
