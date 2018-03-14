@@ -7,7 +7,7 @@ Download the 'Mathematics' file in this repository. <br />
 Extract the download zip file and double click 'Mathematics.exe' to run the program. <br />
 
 ## How to Use: <br />
-  1. User picks a type of questions and then pick the number of questions to start a quiz. There are four question types in the current prototype program. They are: “Arithmetic Questions”, “Fraction Questions”, “Derivative Questions”, and “Matrix Questions”. <br />
+  1. User picks a type of questions and then pick the number of questions to start a quiz. There are four question types in the current prototype version. They are: “Arithmetic Questions”, “Fraction Questions”, “Derivative Questions”, and “Matrix Questions”. <br />
   2. The user needs to type in answers in the program and press “Enter” on keyboard to submit the answer. <br />
   3. If the answer is correct, the user would get 1 point. If the answer is wrong, the user gets 0 point, and the correct answer will be shown on the screen for user’s reference. <br />
   4. After the quiz, the total score and accuracy would be shown on the screen. <br />
