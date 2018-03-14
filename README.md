@@ -18,7 +18,7 @@ Extract the download zip file and double click 'Mathematics.exe' to run the prog
   9. For the Matrix Inversion problems, all matrices generated are guaranteed to be invertible.  <br />
 
 ## Make a change of the program: <br />
-  1. Change the codes in 'Mathematics.py' <br />
+  1. Change your codes in 'Mathematics.py' <br />
   2. Install pyinstaller, a python package to generate your new .exe file. Link: https://www.pyinstaller.org/  <br />
      In command prompt (Windows): <br />
         ```
