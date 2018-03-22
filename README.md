@@ -1,4 +1,4 @@
-# Mathematics program for K-12 Education
+# Mathematics Software for K-12 Education
 ## Goal of the Project: <br />
 The project aims to create a prototype program for K-12 mathematics education. In more detail, the program is designed to help students finding out weaknesses in mathematics by randomly generating quiz questions for students to answer. <br />
 
